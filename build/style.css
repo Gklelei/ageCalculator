@@ -74,3 +74,9 @@
   background-size: 30px;
   cursor: pointer;
 }
+#msg {
+  font-size: 20px;
+}
+#msg span {
+  color: var(--h1-span);
+}
